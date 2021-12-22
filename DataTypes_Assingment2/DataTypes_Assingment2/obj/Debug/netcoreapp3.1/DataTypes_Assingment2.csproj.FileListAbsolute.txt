@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\bin\Debug\netcoreapp3.1\DataTypes_Assingment2.exe
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\bin\Debug\netcoreapp3.1\DataTypes_Assingment2.deps.json
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\bin\Debug\netcoreapp3.1\DataTypes_Assingment2.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\bin\Debug\netcoreapp3.1\DataTypes_Assingment2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\bin\Debug\netcoreapp3.1\DataTypes_Assingment2.dll
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\bin\Debug\netcoreapp3.1\DataTypes_Assingment2.pdb
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.dll
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.pdb
+C:\Users\Admin\source\repos\DataTypes_Assingment2\DataTypes_Assingment2\obj\Debug\netcoreapp3.1\DataTypes_Assingment2.genruntimeconfig.cache
