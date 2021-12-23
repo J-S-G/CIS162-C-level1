@@ -6,7 +6,6 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("Enter 10 integers to sum.");
 
             int[] integers = new int[10];
@@ -18,7 +17,7 @@ namespace Arrays
                 integers[i] = Convert.ToInt32(Console.ReadLine());
                 sum += integers[i];
             }
-            Console.WriteLine($"The sum of the integers is: {sum}");
+            Console.WriteLine($"The sum of the integers is: {sum} ");
         }
     }
 }
